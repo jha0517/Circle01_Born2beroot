@@ -4,6 +4,8 @@
 
 Born2beroot is a 42 school project that aims to introduce students to system administration. The goal is to set up a virtual machine using a Debian 10 operating system and configure it to meet certain security requirements.
 
+![](image.png)
+
 ## Requirements
 
 - The virtual machine must use a Debian 10 operating system
